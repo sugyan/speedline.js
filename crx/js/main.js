@@ -3,4 +3,4 @@ setInterval(function() {
     for (var i = 0; i < images.length; i++) {
         SpeedLine(images[i]);
     }
-}, 500);
+}, 1000);
